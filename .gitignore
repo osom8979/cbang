@@ -1,0 +1,40 @@
+# linux
+.Trash-*
+
+# mac
+.DS_Store
+
+# windows
+Thumbs.db
+
+# object files
+*.o
+*.ko
+*.obj
+*.elf
+*.slo
+*.lo
+
+# precompiled headers
+*.gch
+*.pch
+
+# libraries
+*.lib
+*.a
+*.la
+*.lo
+*.lai
+
+# shared objects
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# debug files
+*.dSYM/
+
+# vim
+*~
+
